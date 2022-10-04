@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sachin!!!</h1>
 <h3 align="center">A passionate DevOps Engineer, Who is eagerly searching for new things to learn.</h3>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1480650/screenshots/4739771/media/2277b06c5d6595c2b4195994207ad63a.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinjangid2k&label=Profile%20views&color=0e75b6&style=flat" alt="sachinjangid2k" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+
+<img align="right" alt="abc" width="500" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif">
 
 
 - 🔭 I’m currently working on **DevOps tools.**
@@ -42,5 +43,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachinjangid2k&show_icons=true&locale=en" alt="sachinjangid2k" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinjangid2k&" alt="sachinjangid2k" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachinjangid2k" alt="sachinjangid2k" /></a> </p>
